@@ -1,7 +1,4 @@
 """Formulario: cuenta de usuario
-    usuario: Prueba1a
-    pass: ksdPsldj8394_sjd
-    pass_new: psdPsld28394_sjd1
 
 """
 from django import forms
