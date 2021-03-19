@@ -1,9 +1,9 @@
 # Website-Dashboard
     Desarrollado con django 3 
 # Página principal
-    ![](static/evi/principal.PNG)
+![](static/evi/principal.PNG)
 # Dashboard
-    ![](static/evi/dashboard.PNG)
+![](static/evi/dashboard.PNG)
     
 # Código
 
