@@ -1,5 +1,5 @@
 """
-    Datos superusuario: adminsuper    12345
+    Datos user, pass
 
 """
 import os
