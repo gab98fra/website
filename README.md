@@ -16,3 +16,5 @@ Siéntate libre de utilizarlo y modificarlo
 </a>
 
 # Fuentes Template
+https://github.com/puikinsh/ElaAdmin
+https://github.com/mdbootstrap/Landing-Page-Template-Bootstrap
