@@ -1,5 +1,5 @@
 # Website-Dashboard
-    Desarrollado con django 3 
+    Desarrollado con django 3 y postgresql 
 # Página principal
 ![](static/evi/principal.PNG)
 # Dashboard
@@ -14,3 +14,5 @@ Siéntate libre de utilizarlo y modificarlo
 <a href="https://website1soe.herokuapp.com/" >
     Aquí puede visitar el sitio desplegado
 </a>
+
+# Fuentes Template
